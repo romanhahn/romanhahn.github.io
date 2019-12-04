@@ -13,9 +13,9 @@ Previously, I completed my Bachelor degree in Economics and Management at the Un
 
 Research Interests
 ======
-*Explainable Machine Learning
-*Senstitivity Analysis
-*Probabilistic Machine Learning
+* Explainable Machine Learning
+* Senstitivity Analysis
+* Probabilistic Machine Learning
 
 
 Current projects
