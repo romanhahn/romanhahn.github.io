@@ -8,52 +8,57 @@ redirect_from:
 ---
 
 {% include base_path %}
+The following is a non-detailed version of my curriculum vitae up to December 2019.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Statistics, 2021 (expected)
+  * Bocconi University (Milan), Italy
+* M.Sc. Economics/ Double M.Sc. Degree Program, 2016 
+  * University of Hohenheim, Germany & University of Pavia, Italy
+	*	Major: Econometrics/Statistics and Finance
+	*	Average grade: 1.0 (approximate equivalent to a 4.0 GPA)
+	*	Master thesis: Bayesian non-parametric models for species sampling problems
+
+* B.Sc. Economics, 2014
+	*	University of Hohenheim, Germany
+	*	Major: Econometrics and Finance
+	*	Average grade: 1.6 (approximate equivalent to a 3.4 GPA)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2016-08/2017:	Data Scientist, Horváth & Partners
+  * Quantitive business modelling
+  * Big Data Business Analytics
+  * Providing data-driven solutions for clients
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring/Summer 2015: Research Assistant Econometrics, University of Hohenheim
+
+* 02/2014-05/2014:	Intern, Credit Research, Landesbank Baden-Württemberg, Stuttgart
+  * Supporting department leader in company and industry specific research
+  * Assisting in publishing weekly Information for investors
+  * Analyzing financial coefficients
+
+
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * German (native); English (excellent command); Italian (intermediate level); French (basic knowledge)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming
+  * R
+  * Python
+  * Pytorch
+  * Matlab
+  * Linux
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  
+
