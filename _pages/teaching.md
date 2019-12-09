@@ -15,7 +15,7 @@ author_profile: true
 
 
 **Teaching assistant** at University of Hohenheim:
-* [Macro economics](https://www.uni-hohenheim.de/modulkatalog/modul/gvwl-2-einkommen-beschaeftigung-und-inflation-5207-070), Bachelor course.
+* [Macroeconomics](https://www.uni-hohenheim.de/modulkatalog/modul/gvwl-2-einkommen-beschaeftigung-und-inflation-5207-070), Bachelor course.
 
 
 ## Teaching certifications
