@@ -2,7 +2,7 @@
 title: "Teaching Bocconi University"
 collection: teaching
 type: "Undergraduate and graduate courses"
-permalink: /teaching/bocconi
+permalink: 
 # venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
