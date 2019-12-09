@@ -1,6 +1,6 @@
 ---
 title: "Teaching Bocconi University"
-collection: teaching
+collection: 
 type: "Undergraduate and graduate courses"
 permalink: 
 # venue: "University 1, Department"
