@@ -20,6 +20,4 @@ author_profile: true
 
 ## Teaching certifications
 * Bocconi Excellence In Advanced Teaching ([BEAT](https://bestr.it/project/show/114?ln=en)).
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
