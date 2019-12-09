@@ -17,14 +17,13 @@ Education
   * Bocconi University (Milan), Italy
 * M.Sc. Economics/ Double M.Sc. Degree Program, 2016 
   * University of Hohenheim, Germany & University of Pavia, Italy
-	*	Major: Econometrics/Statistics and Finance
-	*	Average grade: 1.0 (approximate equivalent to a 4.0 GPA)
-	*	Master thesis: Bayesian non-parametric models for species sampling problems
+  * Major: Econometrics/Statistics and Finance
+
 
 * B.Sc. Economics, 2014
-	*	University of Hohenheim, Germany
-	*	Major: Econometrics and Finance
-	*	Average grade: 1.6 (approximate equivalent to a 3.4 GPA)
+  * University of Hohenheim, Germany
+  * Major: Econometrics and Finance
+
 
 Work experience
 ======
@@ -39,7 +38,14 @@ Work experience
   * Supporting department leader in company and industry specific research
   * Assisting in publishing weekly Information for investors
   * Analyzing financial coefficients
-
+  
+ 
+Teaching
+======
+* Principles of Business Analytics (graduate, Bocconi University)
+* Applied Stochastic Processes (undergraduate, Bocconi University)
+* Statistics (undergraduate, Bocconi University)
+* Macroeconomics (undergraduate, University of Hohenheim)
 
 
 
