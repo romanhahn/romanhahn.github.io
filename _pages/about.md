@@ -23,6 +23,6 @@ Current Projects
 ======
 1. Insights in the use of blackbox emulators using Partial Dependence Functions (Joint work with E. Borgonovo, L. Bondi and E. Plischke, working paper)
 1. Computing the mean dimension of neural networks (Joint work with C. Feinauer and E. Borgonovo, working paper)
-% 1. Research project for *Gruppo Campari*
+
 
 
