@@ -28,16 +28,11 @@ Education
 Work experience
 ======
 * 12/2016-08/2017:	Data Scientist, Horváth & Partners
-  * Quantitive business modelling
-  * Big Data Business Analytics
-  * Providing data-driven solutions for clients
 
 * Spring/Summer 2015: Research Assistant Econometrics, University of Hohenheim
 
 * 02/2014-05/2014:	Intern, Credit Research, Landesbank Baden-Württemberg, Stuttgart
-  * Supporting department leader in company and industry specific research
-  * Assisting in publishing weekly Information for investors
-  * Analyzing financial coefficients
+
   
  
 Teaching
