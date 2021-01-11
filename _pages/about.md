@@ -21,8 +21,11 @@ Research Interests
 
 Current Projects
 ======
-1. Insights in the use of blackbox emulators using Partial Dependence Functions (Joint work with E. Borgonovo, L. Bondi and E. Plischke)
-1. Computing the mean dimension of neural networks (Joint work with C. Feinauer and E. Borgonovo)
+* Insights in the use of blackbox emulators using Partial Dependence Functions (Joint work with E. Borgonovo, L. Bondi and E. Plischke)
+* Computing the mean dimension of neural networks (Joint work with C. Feinauer and E. Borgonovo)
+* Do neural networks see statistical dependence? (Joint work with C. Feinauer and E. Borgonovo)
+* Comparing Neural Networks with Sensitivity Analysis (Joint work with C. Feinauer and E. Borgonovo)
+* Understanding Deep Networks Hyperparameters Space through Design of Experiments (Joint work with E. Borgonovo, C. Feinauer and E. Plischke)
 
 
 
