@@ -50,7 +50,10 @@ Teaching
 Skills
 ======
 * Languages
-  * German (native); English (excellent command); Italian (intermediate level); French (basic knowledge)
+  * German (native) 
+  * English (excellent command)
+  * Italian (intermediate level)
+  * French (basic knowledge)
 
 * Programming
   * R
@@ -58,6 +61,7 @@ Skills
   * Pytorch
   * Matlab
   * Linux
+  * Julia
   
 
   
