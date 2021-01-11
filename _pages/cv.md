@@ -27,6 +27,8 @@ Education
 
 Work experience
 ======
+* 01/2020-05/2020: Funded Research Project, Campari
+
 * 12/2016-08/2017:	Data Scientist, Horváth & Partners
 
 * Spring/Summer 2015: Research Assistant Econometrics, University of Hohenheim
