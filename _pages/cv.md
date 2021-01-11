@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The following is a non-detailed version of my curriculum vitae up to December 2019. The full CV is available <a href="/files/cv_Hahn.pdf"> here </a>.
+The following is a non-detailed version of my curriculum vitae up to December 2020. The full CV is available <a href="/files/cv_Hahn.pdf"> here </a>.
 
 Education
 ======
